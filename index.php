@@ -12,7 +12,7 @@
 
 echo "Hola ".$nombre. ' '.$apellido;
 echo "<hr>";
-echo "Hola, mi nombre es: $nombre"
+echo "Hola, mi nombre es: $nombre",
     ?> 
   </body>
 </html>
